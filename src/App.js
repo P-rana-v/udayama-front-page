@@ -1,5 +1,6 @@
 import AboutUs from './AboutUs';
 import './App.css';
+import Contact from './Contact';
 import Events from './Events';
 import Hero from './Hero';
 import Leadership from './Leadership';
@@ -13,6 +14,7 @@ function App() {
       <AboutUs />
       <Events />
       <Leadership />
+      <Contact />
     </div> 
   );
 }
