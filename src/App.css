@@ -367,4 +367,9 @@ li {
 
 .dummy {
     width: 354px;
+    border-radius: 8px;
+    border: 2px solid rgba(0, 65, 232, 0);
+    padding: 40px 24px;
+    margin-right: 22px;
+    margin-bottom: 22px;
 }
